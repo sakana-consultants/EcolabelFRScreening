@@ -27,3 +27,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 *.Rproj
+Not_in_GIT
+.DS_Store
